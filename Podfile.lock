@@ -1,0 +1,25 @@
+PODS:
+  - RevealingSplashView (0.6.0)
+  - TensorFlowLiteC (0.0.1-nightly.20200510)
+  - TensorFlowLiteSwift (0.0.1-nightly.20200507):
+    - TensorFlowLiteC (~> 0.0.1-nightly)
+
+DEPENDENCIES:
+  - RevealingSplashView
+  - TensorFlowLiteC (= 0.0.1-nightly.20200510)
+  - TensorFlowLiteSwift (= 0.0.1-nightly.20200507)
+
+SPEC REPOS:
+  trunk:
+    - RevealingSplashView
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+
+SPEC CHECKSUMS:
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  TensorFlowLiteC: ea621b416610813f5240e791680e179350d8a8a2
+  TensorFlowLiteSwift: d3497cd5705ec6eab636928f60ae11ad61b359af
+
+PODFILE CHECKSUM: 34f706504ae6c12a69240ec98a0bdba4ba5b8c44
+
+COCOAPODS: 1.9.3
